@@ -1,5 +1,5 @@
 # frontend-testing
-This repostitory was created to practice making stuff with HTML, CSS and JS. Motivation [Alexey Kabanov's course on FrontEnd](https://youtu.be/nobHtYX_GBw?list=PLN191DYDvBJ88-aNUlgcM-AfJtvKL36tq)
+This repostitory was created to practice making stuff with HTML, CSS and JS. Motivation: [Alexey Kabanov's course on FrontEnd](https://youtu.be/nobHtYX_GBw?list=PLN191DYDvBJ88-aNUlgcM-AfJtvKL36tq)
 
 ## VC.ru feed layout
 
