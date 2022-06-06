@@ -19,3 +19,15 @@ I tried to redo a feed layout of popular in Russia news site [vc.ru](https://vc.
 <img src="https://user-images.githubusercontent.com/81391756/171554567-553ba058-4260-4439-ab5d-18a32c9476c1.png" width="500"/>
 
 Right now I didn't make icons at the bottom because I think that I can do it and I don't need practice.
+
+# vk.ru feed layout
+
+### Official layout:
+
+<img src="https://user-images.githubusercontent.com/81391756/172217732-72aa06c1-b640-4492-9f54-a73bfeb93e8f.PNG" width="500"/>
+
+### My remake:
+
+<img src="https://user-images.githubusercontent.com/81391756/172217885-c8a1a82b-7e96-4a9c-aa31-0ff8f77b26b6.PNG" width="500"/>
+
+
